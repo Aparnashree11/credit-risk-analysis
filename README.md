@@ -2,28 +2,27 @@
 
 A lightweight, interactive web application that predicts **credit default risk** using machine learning. Built with **Streamlit**, powered by **Gradient Boosting**, and deployed on **Hugging Face Spaces**.
 
-> 🔍 Determine whether a customer is likely to default on credit based on demographic and financial attributes — with model explainability via SHAP!
+> Determine whether a customer is likely to default on credit based on demographic and financial attributes — with model explainability via SHAP!
 
 ---
 
-## 🚀 Demo
+## Demo
 
-👉 [Launch on Hugging Face Spaces](https://huggingface.co/spaces/your-username/credit-risk-scoring-app)  
-(*Replace with your actual space URL once deployed*)
+👉 [Launch on Hugging Face Spaces](https://huggingface.co/spaces/aparnaaaw/credit_analysis)  
 
 ---
 
-## 🧠 About the Project
+## About the Project
 
 This project implements a **cost-sensitive credit scoring model** trained on German credit data. It integrates:
 
-- ✅ Supervised Learning (Gradient Boosting Classifier)
-- ✅ Class Imbalance Handling with **SMOTE**
-- ✅ **Unsupervised Anomaly Detection** using Isolation Forest
-- ✅ Full Scikit-learn **pipeline serialization**
-- ✅ Model Explainability with **SHAP**
-- ✅ **Streamlit UI** for real-time interaction
-- ✅ Deployed via Docker on **Hugging Face Spaces**
+- Supervised Learning (Gradient Boosting Classifier)
+- Class Imbalance Handling with **SMOTE**
+- **Unsupervised Anomaly Detection** using Isolation Forest
+- Full Scikit-learn **pipeline serialization**
+- Model Explainability with **SHAP**
+- **Streamlit UI** for real-time interaction
+- Deployed via Docker on **Hugging Face Spaces**
 
 ---
 
